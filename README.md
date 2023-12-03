@@ -19,7 +19,7 @@ Consider giving this repo a star тнР if it helped you.
 # Usage
 
 Click on the "Open in Colab" button.
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cosadiz69/hdbr/blob/master/HandBrakeCLI_Colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zelebez6969/hdbr/blob/master/HandBrakeCLI_Colab.ipynb)
 
 # Notes
 
